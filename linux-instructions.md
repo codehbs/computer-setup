@@ -1,11 +1,13 @@
 
 # Computer Set-Up Instructions - Linux
 
+## Citation
+This guide was originally created by [DevBootcamp](http://devbootcamp.com/) for its students in 2015.
+
 ## Learning Competencies
 By the end of this lesson, you should be able to:
 - Install technologies from the command line
 - Use package managment tools
-
 
 ## Summary
 You will need to have your computer set up with the following tools for CODE. Make sure to go through this guide step-by-step. You'll need to have each of these technologies installed to have a smooth start to CODE and your future career!
