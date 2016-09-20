@@ -1,5 +1,7 @@
 # Computer Set-Up Instructions
-Let's get your dev environment set up! This guide is inspired by the one that DevBootcamp used for its new students in 2015. Learn more about [DevBootcamp's program](https://github.com/Devbootcamp).
+This guide is inspired by the one that DevBootcamp used for its new students in 2015. Learn more about [DevBootcamp's program](https://github.com/Devbootcamp).
+
+Let's get your dev environment set up! 
 
 If you're not familiar with the command line, you may want to start by reading *Learning the Bash Shell* [Chapter 1](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html). Try the [Command Line Crash Course](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) from Viking Code School to get some practice using the command line.
 
