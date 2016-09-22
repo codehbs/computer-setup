@@ -17,7 +17,7 @@ While it's definitely possible to code using Windows, you'll generally be much h
 (i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
 
 ## Release 0: Download Sublime Text
-Download and follow instructions from [their site](http://www.sublimetext.com). Make sure to move it to your applications folder. You can choose to download either Sublime Text 2 or 3.
+Download and follow instructions from [their site](http://www.sublimetext.com). Make sure to move it to your applications folder. You can choose to download either Sublime Text 2 or 3. We'd recommend Sublime Text 2, because some members have trouble with 3.
 
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
